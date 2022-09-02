@@ -1,0 +1,14 @@
+﻿{
+  "Author": "schwaj",
+  "Name": "ChatBubbles",
+  "Punchline": "all chat bubbles, all the time.",
+  "Description": "Shows chat bubbles above player's heads'.",
+  "InternalName": "ChatBubbles",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "RepoUrl": "https://github.com/schwaj/ChatBubbles"
+}
